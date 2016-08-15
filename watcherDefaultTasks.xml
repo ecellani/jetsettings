@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="/repositorios/cea/engine/node_modules/babel-cli/bin/babel.js" />
+      <option name="program" value="/repositorios/poc/electron-poc/node_modules/babel-cli/bin/babel.js" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
